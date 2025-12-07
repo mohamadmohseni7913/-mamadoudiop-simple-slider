@@ -1,5 +1,5 @@
 {
-  "name": "@mamadoudiop/simple-slider",
+  "name": "@slider/zeos",
   "version": "1.0.0",
   "description": "A tiny React hook for window size with SSR support",
   "license": "MIT",
