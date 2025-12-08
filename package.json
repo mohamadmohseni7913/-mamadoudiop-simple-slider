@@ -1,16 +1,20 @@
 {
-  "name": "@slider/zeos",
-  "version": "1.0.0",
-  "description": "A tiny React hook for window size with SSR support",
+  "name": "@mamadoudiop/lite-carousel",
+  "version": "1.2.0",
+  "description": "Ultra lightweight Swiper.js alternative for React — <6kb, full features, centered mode, coverflow",
   "license": "MIT",
   "author": "اسم شما",
   "repository": "https://github.com/yourname/use-window-size",
   "homepage": "https://github.com/yourname/use-window-size#readme",
   "keywords": [
     "react",
-    "hook",
-    "window-size",
-    "ssr"
+    "swiper",
+    "carousel",
+    "slider",
+    "coverflow",
+    "centered",
+    "lightweight",
+    "nextjs"
   ],
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
